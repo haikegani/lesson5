@@ -1,0 +1,39 @@
+section {
+  background-color: lightblue;
+}
+
+.box {
+  background-color: lightgreen;
+}
+
+#main-text {
+  background-color: lightcoral;
+}
+
+[data-role] {
+  background-color: lightyellow;
+}
+
+div span {
+  background-color: lightsalmon;
+}
+
+ul>li {
+  background-color: lightgray;
+}
+
+h2.title {
+  background-color: lightpink;
+}
+
+p.note[data-info] {
+  background-color: lightseagreen;
+}
+
+article#main-article {
+  background-color: rgb(189, 136, 201);
+}
+
+.container .card[data-type] {
+  background-color: lightgoldenrodyellow;
+}
