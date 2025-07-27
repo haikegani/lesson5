@@ -31,7 +31,7 @@ p.note[data-info] {
 }
 
 article#main-article {
-  background-color: lightsteelblue;
+  background-color: rgb(189, 136, 201);
 }
 
 .container .card[data-type] {
